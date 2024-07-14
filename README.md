@@ -47,6 +47,8 @@ The project addresses the challenges associated with controlling a plant with st
 1. Clone the repository:
    ```bash
    git clone https://github.com/yourusername/rie-process-control.git
-   cd rie-process-control
-  ```
+   cd Multivariable-feedback-controller
+2. Run the main script:
+   ```
+   Part1and2.m
 
