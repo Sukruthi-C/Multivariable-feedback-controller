@@ -33,9 +33,9 @@ The project addresses the challenges associated with controlling a plant with st
 
 ## Project Structure
 
-- `src/`: Contains the source code for the controller design and simulation.
-- `data/`: Includes datasets and identified models used in the project.
-- `plots/`: Generated plots for step responses, Bode plots, and stability margins.
+- `Part1and2.m`: Contains the source code for the controller design.
+- `Part3.m`: Includes Reverse Engineering the Multivariable Controller
+
 
 ## Getting Started
 
@@ -52,3 +52,5 @@ The project addresses the challenges associated with controlling a plant with st
    ```
    Part1and2.m
 
+### Results
+The project successfully demonstrated that a multivariable controller could achieve better performance compared to a decentralized controller. The integration of Oxygen as an additional actuator further improved the control over the RIE process, allowing for precise regulation of plasma variables.
